@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Football Updates</string>
+    <string name="teamA">Barcelona FC</string>
+    <string name="teamB">R. Madrid FC</string>
+    <string name="team_a_score">0</string>
+    <string name="team_b_score">0</string>
+    <string name="team_a_shots">0</string>
+    <string name="team_b_shots">0</string>
+    <string name="team_a_foul">0</string>
+    <string name="team_b_foul">0</string>
+    <string name="shot_text">Shots on Target</string>
+    <string name="foul">Foul</string>
+    <string name="goal_button">Goal Point</string>
+    <string name="shot_button">Shot</string>
+    <string name="reset_button">Reset</string>
+</resources>
